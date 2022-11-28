@@ -1,3 +1,3 @@
 fail = input("Mis on su failinimi?: ")
 
-print("Su faililaiend on:", fail.split(".")[1])
+print("Su faililaiend on:", fail.split(".")[1hgasmfn
